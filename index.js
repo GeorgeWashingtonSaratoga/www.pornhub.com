@@ -1,9 +1,9 @@
 if(document.getElementById('quandale').clicked == true)
 {
-   window.location.href = "https://github.com/GeorgeWashingtonSaratoga/quandale";
+   window.location.href = "https://georgewashingtonsaratoga.github.io/quandale/";
 }
 
 if(document.getElementById('suirrel').clicked == true)
 {
-   window.location.href = "https://github.com/GeorgeWashingtonSaratoga/suirrel";
+   window.location.href = "https://georgewashingtonsaratoga.github.io/suirrelStory/";
 }

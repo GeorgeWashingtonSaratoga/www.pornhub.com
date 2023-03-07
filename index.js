@@ -1,10 +1,9 @@
-if(document.getElementById("quandale").clicked == true)
-{
-   window.location.href = "https://georgewashingtonsaratoga.github.io/quandale/";
-}
-if(document.getElementById("suirrel").clicked == true)
-{
-   window.location.href = "https://georgewashingtonsaratoga.github.io/suirrelStory/";
-}
+var butt = document.getElementById("quandale");
+image.onclick = function(e) {
+    window.location.href = "https://georgewashingtonsaratoga.github.io/quandale/";
+};
 
-var anus;
+var butt = document.getElementById("suirrel");
+image.onclick = function(e) {
+    window.location.href = "https://georgewashingtonsaratoga.github.io/suirrelStory/";
+};

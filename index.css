@@ -3,5 +3,6 @@ body {
   color: orange;
 }
 button {
-  color: orange;
+  background-color: orange;
+  color: lightgray;
 }
